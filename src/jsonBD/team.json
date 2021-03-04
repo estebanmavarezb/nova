@@ -1,0 +1,94 @@
+[
+    {
+        "id": "1",
+        "imagen": "creativo-2.jpg",
+        "nombre": "Paola Rodriguez",
+        "puesto": "TL",
+        "correo" : "example@glamit.com.ar"
+    },
+    {
+        "id": "2",
+        "imagen": "creativo-2.jpg",
+        "nombre": "Victoria Cuevas",
+        "puesto": "TL",
+        "correo" : "example@glamit.com.ar"
+    },
+    {
+        "id": "3",
+        "imagen": "creativo-2.jpg",
+        "nombre": "Antonella Romeo",
+        "puesto": "Brand",
+        "correo" : "example@glamit.com.ar"
+    },
+    {
+        "id": "4",
+        "imagen": "creativo-2.jpg",
+        "nombre": "Luisana Mejias",
+        "puesto": "Brand",
+        "correo" : "example@glamit.com.ar"
+    },
+    {
+        "id": "5",
+        "imagen": "creativo-2.jpg",
+        "nombre": "Agustina Brea",
+        "puesto": "Brand",
+        "correo" : "example@glamit.com.ar"
+    },
+    {
+        "id": "6",
+        "imagen": "creativo-2.jpg",
+        "nombre": "Florencia Perik",
+        "puesto": "Analista",
+        "correo" : "example@glamit.com.ar"
+    },
+    {
+        "id": "7",
+        "imagen": "creativo-2.jpg",
+        "nombre": "Julieta Fiorentino",
+        "puesto": "Analista",
+        "correo" : "example@glamit.com.ar"
+    },
+    {
+        "id": "8",
+        "imagen": "creativo-2.jpg",
+        "nombre": "Matías Campagna",
+        "puesto": "Frontend Developer",
+        "correo" : "example@glamit.com.ar"
+    },
+    {
+        "id": "9",
+        "imagen": "creativo-2.jpg",
+        "nombre": "Ruben E. Mavarez",
+        "puesto": "Frontend Developer Jr.",
+        "correo" : "example@glamit.com.ar"
+    },
+    {
+        "id": "10",
+        "imagen": "creativo-2.jpg",
+        "nombre": "Pía Gonzalez",
+        "puesto": "Paid",
+        "correo" : "example@glamit.com.ar"
+    },
+    {
+        "id": "11",
+        "imagen": "creativo-2.jpg",
+        "nombre": "Nicolás Puzin",
+        "puesto": "Paid",
+        "correo" : "example@glamit.com.ar"
+    },
+    {
+        "id": "12",
+        "imagen": "creativo-2.jpg",
+        "nombre": "Facu Hrusovsky",
+        "puesto": "Diseño",
+        "correo" : "example@glamit.com.ar"
+    },
+    {
+        "id": "1",
+        "imagen": "creativo-2.jpg",
+        "nombre": "Marcela Leguizamón",
+        "puesto": "Diseño",
+        "correo" : "example@glamit.com.ar"
+
+    }
+]

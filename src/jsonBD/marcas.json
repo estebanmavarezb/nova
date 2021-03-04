@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "marca": "Skf",
+        "img": "skf.png"
+    },
+    {
+        "id": 2,
+        "marca": "Volf",
+        "img": "volf.jpg"
+    },
+    {
+        "id": 3,
+        "marca": "Philips",
+        "img": "philips.png"
+    },
+    {
+        "id": 4,
+        "marca": "Pandora",
+        "img": "pandora.png"
+    },
+    {
+        "id": 5,
+        "marca": "Colecciones",
+        "img": "colecciones.jpg"
+    },
+    {
+        "id": 6,
+        "marca": "Swarovsky",
+        "img": "swarovski.png"
+    }
+]

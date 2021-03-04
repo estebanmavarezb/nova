@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "featureText": "#somos",
+        "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quidem fugiat asperiores assumenda aut iste consectetur libero voluptates illo nisi, quasi fuga ea vero"
+    },
+    {
+        "id": "2",
+        "featureText": "#nova",
+        "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quidem fugiat asperiores assumenda aut iste consectetur libero voluptates illo nisi, quasi fuga ea vero"
+    },
+    {
+        "id": "3",
+        "featureText": "#glamit",
+        "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quidem fugiat asperiores assumenda aut iste consectetur libero voluptates illo nisi, quasi fuga ea vero"
+    },
+    {
+        "id": "4",
+        "featureText": "#equipo",
+        "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quidem fugiat asperiores assumenda aut iste consectetur libero voluptates illo nisi, quasi fuga ea vero"
+    }
+]
