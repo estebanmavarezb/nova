@@ -2,31 +2,37 @@
     {
         "id": 1,
         "marca": "Skf",
-        "img": "skf.png"
+        "img": "skf.png",
+        "href": "https://www.skfstore.com.ar/"
     },
     {
         "id": 2,
         "marca": "Volf",
-        "img": "volf.jpg"
+        "img": "volf.jpg",
+        "href": "https://www.volf.com.ar/"
     },
     {
         "id": 3,
         "marca": "Philips",
-        "img": "philips.png"
+        "img": "philips.png",
+        "href": "#home"
     },
     {
         "id": 4,
         "marca": "Pandora",
-        "img": "pandora.png"
+        "img": "pandora.png",
+        "href": "#home"
     },
     {
         "id": 5,
         "marca": "Colecciones",
-        "img": "colecciones.jpg"
+        "img": "colecciones.jpg",
+        "href": "#home"
     },
     {
         "id": 6,
         "marca": "Swarovsky",
-        "img": "swarovski.png"
+        "img": "swarovski.png",
+        "href": "#home"
     }
 ]

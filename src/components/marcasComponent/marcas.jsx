@@ -18,7 +18,7 @@ function MarcasComponent() {
     console.log(typeof infoM)
 
     return (
-        <div className="marcas-component contenedor">
+        <div id="client" className="marcas-component contenedor">
             <h2 className="text-center">Marcas</h2>
             <MarcaContent infoM={infoM}/>
         </div>

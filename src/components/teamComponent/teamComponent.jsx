@@ -17,7 +17,7 @@ function TeamComponent() {
     },[])
 
     return (
-        <div className="team-component contenedor">
+        <div id="team" className="team-component contenedor">
             <h2>Team</h2>
             <TeamContent infoT={infoT}/>
         </div>

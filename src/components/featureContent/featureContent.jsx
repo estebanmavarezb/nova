@@ -12,7 +12,7 @@ function FeatureContent({infoF}) {
     },[])
 
     return (
-        <div className="contenido-feature">
+        <div id="feature" className="contenido-feature">
 
             {infoF.map(entry => (
               <ItemFeature entry={entry} key={entry.id}/>  

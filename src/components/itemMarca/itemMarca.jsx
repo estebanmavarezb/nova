@@ -1,7 +1,7 @@
 function ItemMarca({marca}) {
     return(
         <div className="contenido-img">
-            <img src={require(`../../img/${marca.img}`).default} alt="" />
+            <a href={marca.href}><img src={require(`../../img/${marca.img}`).default} alt=""  /></a>
         </div>
     )
 }
